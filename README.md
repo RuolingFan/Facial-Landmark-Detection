@@ -9,4 +9,4 @@ Moreover, to obtain more promising performance in facial landmark detection, we 
 
 In 'dataset' file, we upload the full dataset of this project we used. Since the dataset is about 17GB, we upload the website directly. The data is from Kaggle.
 
-In 'code' file, we upload all the code with some reports and interpretations. It contains all three models with data preprocessing and reality experimental results.
+In 'code' file, we upload all the code with some reports and interpretations, which contains all three models with data preprocessing and reality experimental results.
