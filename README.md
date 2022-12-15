@@ -5,6 +5,6 @@ In line with the recent success of neural networks, many methods are proposed to
 As a supervised and regression task, our project investigates the CNN-based approach and the combination of CNN and the Transformer. 
 Moreover, to obtain more promising performance in facial landmark detection, we construct a residual neural network (RNN) model, which eventually displays a significant decrease in loss during the validation process.
 
-In 'dataset' file, we upload the full dataset of this project we used. 
+In 'dataset' file, we upload the full dataset of this project we used. Since the dataset is about 17GB, we upload the website directly. The data is from Kaggle.
 
 In 'code' file, we upload all the code with some reports and interpretations. It contains all three models with data preprocessing and reality experimental results.
